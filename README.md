@@ -1,10 +1,10 @@
 H<h2 align="center"> Hi 👋 , I'm Md. Zuhriddin Yoqubov <br/></h2> 
 <h3 align="center">Also known as "Yoqub" to other people. <br> <br>
   <a href="https://github.com/Zuhriddin91" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/FahimFBA?label=Github%20followers&style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Zuhriddin91?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
-  <a href="https://github.com/FahimFBA" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=FahimFBA&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  <a href="https://github.com/Zuhriddin91" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Zuhriddin91&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3> 
       
