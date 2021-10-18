@@ -12,9 +12,9 @@ H<h2 align="center"> Hi 👋 , I'm Md. Zuhriddin Yoqubov <br/></h2>
      
 <div align="center">
 
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Zuhriddin91/Zuhriddin91/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Zuhriddin91/Zuhriddin91/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Zuhriddin91/Zuhriddin91/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Zuhriddin91/Zuhriddin91/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Zuhriddin91/Zuhriddin91/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 </div>
@@ -113,7 +113,7 @@ My Current Workstation Specification </h2>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FahimFBA" alt="FahimFBA" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zuhriddin91" alt="Zuhriddin91" /></p>
 
 
 
@@ -134,9 +134,9 @@ My Current Workstation Specification </h2>
 <div align="center">
 
 
-:star: [Codeforces](https://codeforces.com/profile/FahimFBA) <br>
-:star: [Toph](https://toph.co/u/FahimFBA) <br>
-:star: [HackerRank](https://www.hackerrank.com/FahimFBA) <br>
+:star: [Codeforces](https://codeforces.com/profile/Zuhriddin91) <br>
+:star: [Toph](https://toph.co/u/Zuhriddin91) <br>
+:star: [HackerRank](https://www.hackerrank.com/Zuhriddin91) <br>
 :star: [HackerEarth](https://www.hackerearth.com/@md.fahim3) <br>
 :star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
 :star: [Dimik OJ](https://dimikoj.com/) <br>
@@ -148,7 +148,7 @@ My Current Workstation Specification </h2>
 :star: [Timus](https://acm.timus.ru/author.aspx?id=302862)<br>
 :star: [AMT](http://orac.amt.edu.au/)<br>
 :star: [UVa](http://onlinejudge.org/)<br>
-:star: [CodeMarshal](https://algo.codemarshal.org/users/FahimFBA) <br>
+:star: [CodeMarshal](https://algo.codemarshal.org/users/Zuhriddin91) <br>
 <i>Many more are coming soon...<i> :clap: </div> </details>
 	
 	
@@ -159,7 +159,7 @@ My Current Workstation Specification </h2>
 <div align="center">
 	
 
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2)
+![Zuhriddin91's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zuhriddin91&layout=compact&theme=synthwave&v=2)
 
 
 </div>
@@ -167,7 +167,7 @@ My Current Workstation Specification </h2>
 
 <p align="center">
 
-<a href="https://github.com/FahimFBA/github-readme-twitter">
+<a href="https://github.com/Zuhriddin91/github-readme-twitter">
 <img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
 </a>
 
@@ -176,5 +176,5 @@ My Current Workstation Specification </h2>
 
 
 ------
-Credit: [FahimFBA](https://github.com/FahimFBA)
+Credit: [Zuhriddin91](https://github.com/Zuhriddin91)
 Last Edited on: 01/09/2021
