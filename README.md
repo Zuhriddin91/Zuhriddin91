@@ -6,6 +6,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhriddinYoqubov&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
 </p>
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ZuhriddinYoqubov" alt="50+visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ZuhriddinYoqubov" alt="visitor badge"/>
 </p>
 
