@@ -10,3 +10,8 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=ZuhriddinYoqubov" alt="visitor badge"/>
 </p>
 
+
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=BahromjonPolat" alt="visitor badge"/>
+</p>
+
